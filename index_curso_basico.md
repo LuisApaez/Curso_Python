@@ -79,3 +79,8 @@ en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en 
 * [El juego de la vida: algunos patrones](Curso_basico/Juego_De_La_Vida_Patrones.html)
 * [Números perfectos](Curso_basico/Num_Perfectos.html)
 
+---
+
+```python
+print("Adios módulo 1!")
+```
