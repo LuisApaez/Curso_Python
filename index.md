@@ -1,5 +1,6 @@
 ## Curso de programación en Python
 
+![](https://img2.freepng.es/20190425/tej/kisspng-python-programming-language-computer-programming-c-how-to-learn-python-where-to-start-and-how-to-sta-5cc1bd894aba99.0676800815562008413061.jpg)
 ![](https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png)
 
 ```python
