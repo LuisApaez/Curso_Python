@@ -47,11 +47,35 @@ en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en 
     * [Ejercicio 6: Creación de un chatbot básico](https://colab.research.google.com/drive/1v95LshmllPxsg2jquLk8NmxD3yloa1YT?usp=sharing)
 
 #### Proyecto
+
 * [Proyecto 1 (Parte I): Graficador de funciones](Curso_basico/Parte_I.html)
 * [Proyecto 1 (Parte II)Límites y pandas](Curso_basico/Parte_II.html)
 * [Proyecto 1 (Parte III): Derivadas y rectas tangentes](Curso_basico/Parte_III.html)
 * [Proyecto 1 (Parte IV): Calculadora de límites](Curso_basico/Parte_IV.html)
+    * [Ejercicio del proyecto 1](Curso_basico/Ejercicio_proyecto1.html)
 
+#### Colecciones
 
+* [Clase 14: Listas](Curso_basico/Clase14_listas.html)
+    * [Práctica 8: Ordenar los elementos de una lista](https://colab.research.google.com/drive/16YSEUR0T9TM2hfUH8NvqYUFVW_S34Wqu?usp=sharing)
+* [Clase 15: Matrices y tuplas](Curso_basico/Clase15_tuplas.html)
+    * [Ejercicio 7: Operaciones con matrices](https://colab.research.google.com/drive/1RkPK8eSUR_v2nuykUQ2G0UpvQPcoo90K?usp=sharing)
+* [Clase 16: Set y diccionarios](Curso_basico/Clase16_diccionario.html)
 
+#### Funciones
+
+* [Clase 17: Funciones: nociones básicas](Curso_basico/Clase17_funciones1.html)
+* [Clase 18: Funciones: nociones básicas II](Curso_basico/Clase18_funciones2.html)
+    * [Práctica 9: Más sobre set y criptografía](https://colab.research.google.com/drive/1HqDJ9xTyQN3cIxsurqq8uKG7ONRuLCtS?usp=sharing)
+    * [Ejercicio 8: Criptografía](https://colab.research.google.com/drive/1nxGeCPcKU42gA7K-tsut3qyOOeWNDYkT?usp=sharing)
+    * [Solución ejercicio 8](Curso_basico/Solución_ej8.html)
+* [Clase 19: Recursión](Curso_basico/Clase19_recursion.html)
+    * [Práctica 10: Triángulo de Pascal](https://colab.research.google.com/drive/1PKePzXQjEcMCOt2dC8q85hoQQ_Y5DUjz?usp=sharing)
+    * [Ejercicio 9: Suma recursiva](https://colab.research.google.com/drive/10-fI_PmlvR24f_SKGajFhyuxtUwf0N8p?usp=sharing)
+
+#### Algunos temas adicionales
+* [Sucesión de Fibonecci y número aúreo](Curso_basico/Fibonecci.html)
+* [El juego de la vida](Curso_basico/Juego_De_La_Vida.html)
+* [El juego de la vida: algunos patrones](Curso_basico/Juego_De_La_Vida_Patrones.html)
+* [Números perfectos](Curso_basico/Num_Perfectos.html)
 
