@@ -31,4 +31,4 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 
 #### Más cursos:
 
-* [Curso PostgreSQL](https://luisapaez.github.io/Curso_Python/)
+\| [Curso PostgreSQL](https://luisapaez.github.io/Curso_Postgres/) \|
