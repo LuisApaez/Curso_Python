@@ -41,7 +41,7 @@ en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en 
 
 * [Clase 10: Cadenas de texto I](Curso_basico/Clase10_strings.html)
     * [Práctica 7: Listas de compresión](https://colab.research.google.com/drive/1odjv5iekjUcUs8xMc6ye3nf8QjPpdXsa?usp=sharing)
-
+* [Clase 11: Más sobre cadenas de texto](Curso_basico/Clase11_mas_strings.html)
 * [Clase 12: Cadenas de texto II](Curso_basico/Clase12_cadenas_2.html)
 * [Clase 13: Manejo de excepciones](Curso_basico/Clase13_excepciones.html)
     * [Ejercicio 6: Creación de un chatbot básico](https://colab.research.google.com/drive/1v95LshmllPxsg2jquLk8NmxD3yloa1YT?usp=sharing)
