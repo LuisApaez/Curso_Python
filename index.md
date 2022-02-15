@@ -25,3 +25,10 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 ---
 
 * [Introducción a Python](index_curso_basico.md)
+
+
+---
+
+#### Más cursos:
+
+* [Curso PostgreSQL](https://luisapaez.github.io/Curso_Python/)
