@@ -4,7 +4,7 @@ En este repositorio encontrarás todo el material necesario para aprender Python
 
 Visita la siguiente página: 
 
-[Curso Python](https://luisapaez.github.io/Curso_Python/))
+[Curso Python](https://luisapaez.github.io/Curso_Python/)
 
 la cual tiene ordenado todo el material de apoyo.
 
