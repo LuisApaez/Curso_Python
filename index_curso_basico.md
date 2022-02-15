@@ -47,7 +47,7 @@ en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en 
     * [Ejercicio 6: Creación de un chatbot básico](https://colab.research.google.com/drive/1v95LshmllPxsg2jquLk8NmxD3yloa1YT?usp=sharing)
 
 #### Proyecto
-* [Proyecto 1 (Parte I): Graficador de funciones(Curso_basico/Parte_I.html)
+* [Proyecto 1 (Parte I): Graficador de funciones](Curso_basico/Parte_I.html)
 * [Proyecto 1 (Parte II)Límites y pandas](Curso_basico/Parte_II.html)
 * [Proyecto 1 (Parte III): Derivadas y rectas tangentes](Curso_basico/Parte_III.html)
 * [Proyecto 1 (Parte IV): Calculadora de límites](Curso_basico/Parte_IV.html)
