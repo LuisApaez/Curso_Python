@@ -1,6 +1,6 @@
 ## Curso de programación en Python
 
-![](https://img2.freepng.es/20180715/phb/kisspng-python-javascript-logo-clojure-python-logo-download-5b4ba705f356d3.4338622815316846139967.jpg)
+![](https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png)
 
 ```python
 print("Hola mundo!")
