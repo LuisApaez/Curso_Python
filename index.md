@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Curso de programación en Python
 
-You can use the [editor on GitHub](https://github.com/LuisApaez/Curso_Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+print("Hola mundo!")
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+En esta página encontrarás mucho material que pretende servirte para que aprendas a programar en Python, desde los conceptos más básicos hasta el manejo avanzado de este lenguaje.
 
-### Jekyll Themes
+Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (varios de ellos resueltos), proyectos, prácticas y apuntes sobre algunos temas en especifico.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuisApaez/Curso_Python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Temario General
 
-### Support or Contact
+1. Introducción a Python
+2. Programación orientada a objetos
+3. Manejo de bases de datos
+4. Web Scraping
+5. Django
+6. Estadística en python
+7. Librería ``Pandas``
+8. Hacking ético
+9. Tensorflow y deep learning
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+* [Introducción a Python](index_curso_basico.md)
