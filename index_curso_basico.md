@@ -7,10 +7,14 @@ Las prácticas y ejercicios fueron desarrollados en libretas de [google colab](h
 en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en _google colab_.
 
 
+#### Primeros pasos
 
 * [Clase 1: tipos de datos](Curso_basico/Clase1_tipos_de_datos.html)
 * [Clase 2: Operadores](Curso_basico/Clase2_operadores.html)
 * [Clase 3: Cadenas de texto](Curso_basico/Clase3_cadenas_texto.html)
+
+#### Condicionales y bucles
+
 * [Clase 4: funciones de entrada](Curso_basico/Clase4_funciones_entrada.html)
     * [Práctica 1: Ecuación lineal](https://colab.research.google.com/drive/1p4TyjHLJayWpDMMY7CjPdAHwGw_rTwUL?usp=sharing)
     * [Ejercicio 1: Perímetro y área de un rectángulo](https://colab.research.google.com/drive/1YOqdFvlaADpNY0l7OqkfxiLMR0Hyp5QJ?usp=sharing)
@@ -32,5 +36,22 @@ en ``Jupyter notebook``. Se recomienda llevar este módulo mediante libretas en 
     * [Ejercicio 5: Primos dentro de un rango](https://colab.research.google.com/drive/1sgGl1vvaGHnjdcJ3cYpmokhqXvw36tqu?usp=sharing)
     * [Solución ejercicio 5](Curso_basico/Solución_ej5.html)
 * [Clase 9: ``continue``](Curso_basico/Clase9_continue.html)
+
+#### Cadenas de texto
+
+* [Clase 10: Cadenas de texto I](Curso_basico/Clase10_strings.html)
+    * [Práctica 7: Listas de compresión](https://colab.research.google.com/drive/1odjv5iekjUcUs8xMc6ye3nf8QjPpdXsa?usp=sharing)
+* [Clase 11: Más sobre cadenas de texto](Curso_basico/Clase 11_mas_strings.html)
+* [Clase 12: Cadenas de texto II](Curso_basico/Clase12_cadenas_2.html)
+* [Clase 13: Manejo de excepciones](Curso_basico/Clase13_excepciones.html)
+    * [Ejercicio 6: Creación de un chatbot básico](https://colab.research.google.com/drive/1v95LshmllPxsg2jquLk8NmxD3yloa1YT?usp=sharing)
+
+#### Proyecto
+* [Proyecto 1 (Parte I): Graficador de funciones(Curso_basico/Parte_I.html)
+* [Proyecto 1 (Parte II)Límites y pandas](Curso_basico/Parte_II.html)
+* [Proyecto 1 (Parte III): Derivadas y rectas tangentes](Curso_basico/Parte_III.html)
+* [Proyecto 1 (Parte IV): Calculadora de límites](Curso_basico/Parte_IV.html)
+
+
 
 
