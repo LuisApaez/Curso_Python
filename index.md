@@ -26,7 +26,7 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 
 * [Introducción a Python](index_curso_basico.md)
 
-
+* [Programación orientada a objetos](index_poo.md)
 ---
 
 #### Más cursos:
