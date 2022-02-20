@@ -35,4 +35,4 @@ En este módulo se comienza a trabajar con el editor de texto y código ``sublim
 * [Práctica 3: Herencia múltiple](https://colab.research.google.com/drive/1HL_UzZyy6MZfOOQGy-XlUlmMK_y_nbuw?usp=sharing)
 * [Clase 11: Módulos y paquetes (parte I)](POO/Clase11_módulos_I_g.html)
 * [Clase 12: Módulos y paquetes (parte II)](POO/Clase12_módulos_II_g.html)
-* [Clase 13: Paquetes distribuibles](Sesión13/POO/Clase13_paq_dist_g.html)
+* [Clase 13: Paquetes distribuibles](POO/Sesión13/Clase13_paq_dist_g.html)
