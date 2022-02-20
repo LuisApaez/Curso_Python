@@ -19,7 +19,7 @@ En este módulo se comienza a trabajar con el editor de texto y código ``sublim
      * [Práctica 2: Encapsulando métodos](https://colab.research.google.com/drive/1bxDR5qeLvDsQgRLPPkk5UnSUvmwY9Ryk?usp=sharing)
      * [Ejercicio 2: Clase Control de TV](https://colab.research.google.com/drive/1w__S7EMw1LK4QMA9GiVbydTX7bi9E4e5?usp=sharing)
 * [Clase 6: Conceptos adicionales](POO/Clase6_encapsulamiento_III.html)
-* 
+
 ### Herencia
 
 * [Clase 7: Introducción a la herencia](POO/Clase7_herencia_I.html)
