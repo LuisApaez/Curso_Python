@@ -28,6 +28,8 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 
 * [Programación orientada a objetos](index_poo.md)
 
+* [Manejo de bases de datos](index_manejo_bd.md)
+
 ---
 
 #### Más cursos:
