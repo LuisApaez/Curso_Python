@@ -9,3 +9,5 @@ se explica a detalle cómo se manejará el curso). Si requieres aprender lo bás
 
 * [Conexión con PostgreSQL](Manejo_BD/Sesión1/Clase1_conexion.html)
 
+* [Consultas e inserciones](Manejo_BD/Sesión2/Clase2_comandos.html)
+
