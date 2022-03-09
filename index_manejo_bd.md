@@ -11,5 +11,5 @@ se explica a detalle cómo se manejará el curso). Si requieres aprender lo bás
 
 * [Consultas e inserciones](Manejo_BD/Sesión2/Clase2_comandos.html)
 
-* [Actualizaciones y eliminaciones](Manejo_BD/Sesión2/Clase2_comandos2.html)
+* [Actualizaciones y eliminaciones](Manejo_BD/Sesión3/Clase2_comandos2.html)
 
