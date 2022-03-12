@@ -14,13 +14,14 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 
 1. Introducción a Python
 2. Programación orientada a objetos
-3. Manejo de bases de datos
-4. Web Scraping
-5. Django
-6. Estadística en python
-7. Librería ``Pandas``
-8. Hacking ético
-9. Tensorflow y deep learning
+3. Librería _Pandas_
+4. Manejo de bases de datos
+5. Web Scraping
+6. Django
+7. Estadística en python
+8. Librería ``Pandas``
+9. Hacking ético
+10. Tensorflow y deep learning
 
 ---
 
@@ -28,10 +29,12 @@ Dentro de este curso hallarás apuntes de clase, gran variedad de ejercicios (va
 
 * [Programación orientada a objetos](index_poo.md)
 
+* [Librería _Pandas_](index_pandas.md)
+
 * [Manejo de bases de datos](index_manejo_bd.md)
 
 ---
 
 #### Más cursos:
 
-\| [Curso PostgreSQL](https://luisapaez.github.io/Curso_Postgres/) \|
+\| [Curso PostgreSQL](https://luisapaez.github.io/Curso_Postgres/) \| 
