@@ -13,3 +13,5 @@ se explica a detalle cómo se manejará el curso). Si requieres aprender lo bás
 
 * [Actualizaciones y eliminaciones](Manejo_BD/Sesión3/Clase3_comandos2.html)
 
+* [Manejo de transacciones](Manejo_BD/Sesión4/Clase4_transacciones.html)
+
