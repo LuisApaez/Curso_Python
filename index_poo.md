@@ -33,3 +33,7 @@ En este módulo se comienza a trabajar con el editor de texto y código ``sublim
 * [Clase 12: Módulos y paquetes (parte II)](POO/Clase12_módulos_II.html)
 * [Clase 13: Paquetes distribuibles](POO/Clase13_paq_dist.html)
      * [Práctica 4: Paquetes distribuibles en google colab](https://colab.research.google.com/drive/1FwFIsyFylQ9P7cXzpbv6SytxkNvRrlYG?usp=sharing)
+
+### Proyecto 2
+
+* [Parte 1: Creando la clase _graficar_](POO/Proyecto/Proyecto2_parte1.html)
