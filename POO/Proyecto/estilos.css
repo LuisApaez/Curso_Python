@@ -1,8 +1,3 @@
-.ipey{
-	width: 40%;
-	height: 40%;
-}
-
 p {
 	font-size: 20px;  /*parráfos*/
 }
@@ -119,4 +114,20 @@ img {
 
 .ne {
 	font-size: 17px;	/*Errores, excepciones*/
+}
+
+.nf {
+	font-size: 17px;	/*funciones descripción*/
+}
+
+.nc {
+	font-size: 17px;	/*nombre de la clase_clases*/
+}
+
+.bp {
+	font-size: 17px;	/*self_clases*/
+}
+
+.fm {
+	font-size: 17px;	/*métodos especiales (dounder)*/
 }
