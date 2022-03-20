@@ -38,5 +38,5 @@ En este módulo se comienza a trabajar con el editor de texto y código ``sublim
 
 * [Parte 1: Creando la clase _graficar](POO/Proyecto/Proyecto2_parte1.html)
 
-* [Control de flujo](POO/Proyecto/Proyecto2_parte2.html)
+* [Parte 2: Control de flujo](POO/Proyecto/Proyecto2_parte2.html)
 
